@@ -1,0 +1,6 @@
+{
+  "name": "طباخ التلفاز الذكي - ماذا أطبخ اليوم؟",
+  "description": "تطبيق التلفاز الذكي باللغة العربية لاقتراح أشهى الأطباق بناءً على المكونات المتوفرة مع ركن مخصص للمطبخ الجزائري الأصيل ودعم كامل للريموت كنترول.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
